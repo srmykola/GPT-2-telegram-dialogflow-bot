@@ -1,6 +1,5 @@
 python-telegram-bot
 fire
-string
 threading
 model
 sample
