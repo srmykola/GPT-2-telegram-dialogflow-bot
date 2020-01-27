@@ -1,6 +1,5 @@
 python-telegram-bot
 fire
-threading
 model
 sample
 encoder
