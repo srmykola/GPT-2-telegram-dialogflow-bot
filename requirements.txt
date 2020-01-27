@@ -1,6 +1,5 @@
 python-telegram-bot
 fire
-json
 os
 string
 threading
