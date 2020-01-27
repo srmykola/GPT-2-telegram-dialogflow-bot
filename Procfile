@@ -1,1 +1,1 @@
-web: python GPT-2-Learning.py
+web: python GPT2-Learning.py
