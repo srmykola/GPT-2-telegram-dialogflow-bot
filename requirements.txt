@@ -1,9 +1,7 @@
 python-telegram-bot
 fire
-os
 string
 threading
-random
 model
 sample
 encoder
